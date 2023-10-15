@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkzakah=self.webpackChunkzakah||[]).push([[647],{38647:function(n,e,u){u.r(e),u.d(e,{default:function(){return t}});u(72791);var r=u(80184);function t(){return(0,r.jsx)("div",{children:"ArchivedEvents"})}}}]);
-//# sourceMappingURL=647.f303d6f2.chunk.js.map
