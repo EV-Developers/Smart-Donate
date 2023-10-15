@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkzakah=self.webpackChunkzakah||[]).push([[527],{80527:function(e,n,u){u.r(n),u.d(n,{default:function(){return c}});u(72791);var a=u(80184);function c(){return(0,a.jsx)("div",{children:"Device"})}}}]);
+//# sourceMappingURL=527.046f3b70.chunk.js.map

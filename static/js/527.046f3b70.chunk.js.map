@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/527.046f3b70.chunk.js","mappings":"yKAEe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,UACd,C","sources":["pages/Device.js"],"sourcesContent":["import React from \"react\";\n\nexport default function Device() {\n  return <div>Device</div>;\n}\n"],"names":["Device","_jsx","children"],"sourceRoot":""}
